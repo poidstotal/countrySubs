@@ -108,7 +108,7 @@ parent_id,item_id,item_name
 3010,40107,Siwougourou
 3010,40108,Tintinmou
 3010,40109,Tintinmou-Gah
-3010,40110,Toura-Bio N’Worou
+3010,40110,Toura-Bio N’worou
 3010,40111,Toura-Yokparou
 3010,40112,Toura Gah
 3011,40113,Badou
@@ -327,7 +327,7 @@ parent_id,item_id,item_name
 3034,40326,Illoua
 3034,40327,Kassa
 3034,40328,Koualérou
-3034,40329,Kouara-tédji
+3034,40329,Kouara-Tédji
 3034,40330,Madécali
 3034,40331,Madécali-Zongo
 3034,40332,Mélayakouara
@@ -338,7 +338,7 @@ parent_id,item_id,item_name
 3035,40337,Golobanda
 3035,40338,Kotchi
 3035,40339,Tassi-Djindé
-3035,40340,Tassi-tédji
+3035,40340,Tassi-Tédji
 3035,40341,Tassi-Tédji-Banizounbou
 3035,40342,Tassi-Tédji-Boulanga
 3035,40343,Tassi-Zénon
@@ -460,7 +460,7 @@ parent_id,item_id,item_name
 3046,40459,Koutchantié
 3046,40460,Takotiéta
 3046,40461,Tatchadiéta
-3047,40462,DipokorFontri
+3047,40462,Dipokorfontri
 3047,40463,Koudogou
 3047,40464,Koukoua
 3047,40465,Koukpintiegou
@@ -526,7 +526,7 @@ parent_id,item_id,item_name
 3053,40525,Bassini
 3053,40526,Bérékossou
 3053,40527,Brignamaro
-3053,40528,Gando baka
+3053,40528,Gando Baka
 3053,40529,Kongourou
 3053,40530,Kossou
 3053,40531,Kossou-Ouinra
@@ -562,7 +562,7 @@ parent_id,item_id,item_name
 3056,40561,Pikiré
 3056,40562,Sinagourou
 3056,40563,Toudakou Banyirou
-3056,40564,Warou N’Gourou
+3056,40564,Warou N’gourou
 3056,40565,Yakin-Motoko
 3057,40566,Birni Maro
 3057,40567,Birni-Kankoulka
@@ -591,7 +591,7 @@ parent_id,item_id,item_name
 3059,40590,Tikou
 3060,40591,Boro
 3060,40592,Damouti
-3060,40593,Foo-mama
+3060,40593,Foo-Mama
 3060,40594,Gora -Peulh
 3060,40595,Goutéré
 3060,40596,Guilmaro-Bounkossorou
@@ -599,7 +599,7 @@ parent_id,item_id,item_name
 3060,40598,Guilmaro-Sinakpagourou
 3060,40599,Kèdékou
 3060,40600,Kpakou-Tankonga
-3060,40601,Kpikiré koka
+3060,40601,Kpikiré Koka
 3060,40602,Nassoukou
 3060,40603,Ouroufina
 3060,40604,Séri
@@ -744,7 +744,7 @@ parent_id,item_id,item_name
 3071,40743,Koutie
 3071,40744,Tigninti
 3072,40745,Bagri
-3072,40746,Djindjiré-béri
+3072,40746,Djindjiré-Béri
 3072,40747,Kantchagoutamou
 3072,40748,Sountchirantikou
 3072,40749,Tchirimina
@@ -777,17 +777,17 @@ parent_id,item_id,item_name
 3076,40776,Kounapèigou
 3076,40777,Koupéico
 3076,40778,Koussigou
-3076,40779,Pam-pam
+3076,40779,Pam-Pam
 3076,40780,Perma Centre
 3076,40781,Sinaïciré
 3076,40782,Tènounkontè
 3076,40783,Tèpéntè
 3076,40784,Tignanpéti
 3077,40785,Koutié Tchatido
-3077,40786,Kouwa n'pongou
+3077,40786,Kouwa N'pongou
 3077,40787,Moupémou
 3077,40788,Takonta
-3077,40789,Tchoumi-tchoumi
+3077,40789,Tchoumi-Tchoumi
 3077,40790,Wimmou
 3078,40791,Bonigourou
 3078,40792,Dôh
@@ -802,7 +802,7 @@ parent_id,item_id,item_name
 3079,40801,Nassou
 3079,40802,Péhonco-Tatapouranou
 3079,40803,Péhunco I
-3079,40804,Péhunco II
+3079,40804,Péhunco Ii
 3079,40805,Péhunco-Gah
 3079,40806,Sinaourarou
 3079,40807,Sinaourarou-Gah
@@ -838,7 +838,7 @@ parent_id,item_id,item_name
 3081,40837,Tora
 3082,40838,Dondongou
 3082,40839,Kougnieri
-3082,40840,N’Dahonta
+3082,40840,N’dahonta
 3082,40841,Natagata
 3082,40842,Nignèri
 3082,40843,Sammongou
@@ -866,7 +866,7 @@ parent_id,item_id,item_name
 3084,40865,Biacou
 3084,40866,Bourgniéssou
 3084,40867,Djidjiré-Beri
-3084,40868,Goro-bani
+3084,40868,Goro-Bani
 3084,40869,Mamoussa
 3084,40870,Nanébou
 3084,40871,Porhoum
@@ -918,8 +918,8 @@ parent_id,item_id,item_name
 3089,40917,Aîfa
 3089,40918,Aîtchédji
 3089,40919,Alédjo
-3089,40920,Cité la Victoire
-3089,40921,Cité les palmiers
+3089,40920,Cité La Victoire
+3089,40921,Cité Les Palmiers
 3089,40922,Fandji
 3089,40923,Finafa
 3089,40924,Gbodjo
@@ -937,13 +937,13 @@ parent_id,item_id,item_name
 3090,40936,Agassa-Godomey
 3090,40937,Agonmé
 3090,40938,Agonsoundja
-3090,40939,Akassato centre
+3090,40939,Akassato Centre
 3090,40940,Gbétagbo
-3090,40941,Glo-tokpa
-3090,40942,Houèkè-gbo
+3090,40941,Glo-Tokpa
+3090,40942,Houèkè-Gbo
 3090,40943,Houèkè-Honou
 3090,40944,Kolètin
-3090,40945,Kpodji-les-Monts
+3090,40945,Kpodji-Les-Monts
 3090,40946,Missessinto
 3090,40947,Zekanmey-Domè
 3090,40948,Zopah Palmeraie
@@ -961,7 +961,7 @@ parent_id,item_id,item_name
 3091,40960,Dèkoungbé-Usine
 3091,40961,Dénou
 3091,40962,Djèkpota
-3091,40963,Djoukpa-togoudo
+3091,40963,Djoukpa-Togoudo
 3091,40964,Fandji
 3091,40965,Fignonhou
 3091,40966,Finafa
@@ -969,15 +969,15 @@ parent_id,item_id,item_name
 3091,40968,Gbègnigan-Midokpo
 3091,40969,Gbodjè-Womey
 3091,40970,Gninkindji
-3091,40971,Godomey-N’Gbèho
+3091,40971,Godomey-N’gbèho
 3091,40972,Godomey-Togoudo
 3091,40973,Hélouto
 3091,40974,Hedomè
 3091,40975,Houakomey
-3091,40976,Hounsa -agbodokpa
-3091,40977,La paix
+3091,40976,Hounsa -Agbodokpa
+3091,40977,La Paix
 3091,40978,Lobozounkpa
-3091,40979,Maria-gléta
+3091,40979,Maria-Gléta
 3091,40980,Ningboto
 3091,40981,Nonhouénou
 3091,40982,Ounvènoumèdé
@@ -1004,9 +1004,9 @@ parent_id,item_id,item_name
 3092,41003,Djissoukpa
 3092,41004,Domey-Gbo
 3092,41005,Golo-Djigbé
-3092,41006,Golo-fanto
+3092,41006,Golo-Fanto
 3092,41007,Lohoussa
-3092,41008,Missèbo- Espace saint
+3092,41008,Missèbo- Espace Saint
 3092,41009,Yékon -Do
 3092,41010,Yékon-Aga
 3092,41011,Zèkanmey
@@ -1060,7 +1060,7 @@ parent_id,item_id,item_name
 3097,41059,Yèvié
 3097,41060,Yèvié-Nougo
 3097,41061,Zinvié-Agolèdji
-3097,41062,Zinvié-fandji
+3097,41062,Zinvié-Fandji
 3097,41063,Zinvié-Zounmè
 3098,41064,Acclohoué
 3098,41065,Agbanou
@@ -1089,7 +1089,7 @@ parent_id,item_id,item_name
 3100,41088,Dagleta
 3100,41089,Dodomey
 3100,41090,Dogoudo
-3100,41091,Dogoudo CEG
+3100,41091,Dogoudo Ceg
 3100,41092,Donou
 3100,41093,Gbégamey
 3100,41094,Gbowèlè
@@ -1098,7 +1098,7 @@ parent_id,item_id,item_name
 3100,41097,Soyo
 3100,41098,Tokpota
 3101,41099,Assihoui
-3101,41100,Attogon centre
+3101,41100,Attogon Centre
 3101,41101,Avankamey
 3101,41102,Kpoguétomey
 3101,41103,Niaouli
@@ -1389,12 +1389,12 @@ parent_id,item_id,item_name
 3135,41388,Kpacomey
 3135,41389,Lokpodji
 3135,41390,Nonhouéto
-3135,41391,Sô-ChanhouéTodo
+3135,41391,Sô-Chanhouétodo
 3135,41392,Somaï
 3135,41393,Tchinancomey
 3135,41394,Totakoun
 3135,41395,Vekky Daho
-3135,41396,Vekky dogbodji
+3135,41396,Vekky Dogbodji
 3135,41397,Zounhomey
 3136,41398,Agué
 3136,41399,Badovita
@@ -1526,7 +1526,7 @@ parent_id,item_id,item_name
 3151,41525,Agouako
 3151,41526,Akadjamè
 3151,41527,Ayikinko
-3151,41528,Dossou-somey
+3151,41528,Dossou-Somey
 3151,41529,Gbègoudo
 3151,41530,Sèïgonmè
 3151,41531,Tori-Gare Centre
@@ -1820,7 +1820,7 @@ parent_id,item_id,item_name
 3177,41819,Gnelsanda
 3177,41820,Gossogui-Gourébata
 3177,41821,Gotel
-3177,41822,Goure baba
+3177,41822,Goure Baba
 3177,41823,Ouroumon
 3177,41824,Ouroumonsi- Peulh
 3177,41825,Ouénou -Nikki
@@ -1859,7 +1859,7 @@ parent_id,item_id,item_name
 3181,41858,Angaradébou
 3181,41859,Bio-Sika
 3181,41860,Bori
-3181,41861,Bori-N’Darnon
+3181,41861,Bori-N’darnon
 3181,41862,Bori-Peulh
 3181,41863,Darnon-Gourou
 3181,41864,Gbitébou
@@ -1883,7 +1883,7 @@ parent_id,item_id,item_name
 3183,41882,Banhoun
 3183,41883,Banhoun-Gando
 3183,41884,Kèri
-3183,41885,N’Dali-Peulh
+3183,41885,N’dali-Peulh
 3183,41886,Sakarou
 3183,41887,Sinisson
 3183,41888,Suanin
@@ -1949,11 +1949,11 @@ parent_id,item_id,item_name
 3186,41948,Tourou-Palais-Royal
 3186,41949,Worou-Tokorou
 3186,41950,Zazira
-3187,41951,Agba agba
+3187,41951,Agba Agba
 3187,41952,Assagbinin- Baka
 3187,41953,Bakounourou
 3187,41954,Banikanni
-3187,41955,Banikanni-ENI
+3187,41955,Banikanni-Eni
 3187,41956,Banikanni-Madjatom
 3187,41957,Baparapé
 3187,41958,Goromosso
@@ -2011,12 +2011,12 @@ parent_id,item_id,item_name
 3190,42010,Sonon
 3190,42011,Wokparou
 3190,42012,Wondou
-3191,42013,Guinro
-3191,42014,Bougnérou
+3191,42013,Bougnérou
+3191,42014,Guinro
 3191,42015,Panè-Guéa
 3191,42016,Kpébié
-3191,42017,Tabérou
-3191,42018,Kpébié-Gando
+3191,42017,Kpébié-Gando
+3191,42018,Tabérou
 3191,42019,Tchori
 3191,42020,Won
 3192,42021,Bawèra
@@ -2174,8 +2174,8 @@ parent_id,item_id,item_name
 3204,42173,Woria
 3205,42174,Cloubou
 3205,42175,Kadjogbé
-3205,42176,N’Tchoché
-3205,42177,N’Tchon
+3205,42176,N’tchoché
+3205,42177,N’tchon
 3206,42178,Banon
 3206,42179,Illagbo
 3206,42180,Illaré
@@ -2219,7 +2219,7 @@ parent_id,item_id,item_name
 3213,42218,Djèro
 3213,42219,Ela-Meta
 3213,42220,Idi-Ogou
-3213,42221,Oké-kagourè
+3213,42221,Oké-Kagourè
 3213,42222,Okouta-Ossé
 3214,42223,Agondokpo
 3214,42224,Akoffodjoulé
@@ -2244,7 +2244,7 @@ parent_id,item_id,item_name
 3216,42243,Idaho
 3216,42244,Iloulé
 3216,42245,Issalou
-3216,42246,kpékouté
+3216,42246,Kpékouté
 3216,42247,Mahou
 3216,42248,Modji-Gangan
 3216,42249,Moudja
@@ -2309,7 +2309,7 @@ parent_id,item_id,item_name
 3223,42308,Adjokan
 3223,42309,Gankpètin
 3223,42310,Itchégou
-3223,42311,Itchogué-sotré
+3223,42311,Itchogué-Sotré
 3223,42312,Kpékpédè
 3223,42313,Lèma
 3223,42314,Sèmè
@@ -2326,7 +2326,7 @@ parent_id,item_id,item_name
 3224,42325,Sowiandji
 3225,42326,Assanté
 3225,42327,Gbanlin
-3225,42328,Gbanlin-fifadji
+3225,42328,Gbanlin-Fifadji
 3225,42329,Houin
 3225,42330,Houin-Sègbèya
 3226,42331,Affécia
@@ -2444,7 +2444,7 @@ parent_id,item_id,item_name
 3242,42443,Toui-Gare
 3242,42444,Toui-Odélakou
 3242,42445,Toui-Odjoulè
-3242,42446,Toui-PK
+3242,42446,Toui-Pk
 3243,42447,Attakplakanmè
 3243,42448,Djalloukou
 3243,42449,Djallouma
@@ -2484,7 +2484,7 @@ parent_id,item_id,item_name
 3246,42483,Mèdétèkpo
 3246,42484,Miniki
 3246,42485,Mondji
-3246,42486,N’Dasso
+3246,42486,N’dasso
 3247,42487,Agbomadin
 3247,42488,Ahito
 3247,42489,Awiankanmè
@@ -2674,7 +2674,7 @@ parent_id,item_id,item_name
 3269,42673,Koubokouborè
 3269,42674,Koukoulbendi
 3269,42675,Koutchanti
-3269,42676,N’Dam
+3269,42676,N’dam
 3269,42677,Pargoutè
 3269,42678,Sètrah
 3270,42679,Babanzaouré
@@ -2771,11 +2771,11 @@ parent_id,item_id,item_name
 3278,42770,Bassala
 3278,42771,Bonborh
 3278,42772,Djakpingou
-3278,42773,Kakabounou-béri
+3278,42773,Kakabounou-Béri
 3278,42774,Kparsi
 3278,42775,Kpatouhou
 3278,42776,Léman-Bogou
-3278,42777,Léman-mandè
+3278,42777,Léman-Mandè
 3278,42778,Nalohou
 3278,42779,Timtim-Bongo
 3278,42780,Wargou
@@ -2827,7 +2827,7 @@ parent_id,item_id,item_name
 3283,42826,Pélébina
 3283,42827,Wassa
 3283,42828,Yarakèou
-3284,42829,Alfa kpara
+3284,42829,Alfa Kpara
 3284,42830,Bouloum
 3284,42831,Boumvari
 3284,42832,Déwa
@@ -2881,7 +2881,7 @@ parent_id,item_id,item_name
 3288,42880,Ouramaré
 3288,42881,Tchingayaré
 3289,42882,Adédéwo
-3289,42883,Aguéou-garba
+3289,42883,Aguéou-Garba
 3289,42884,Awotobi
 3289,42885,Gao
 3289,42886,Gbaou
@@ -2890,8 +2890,8 @@ parent_id,item_id,item_name
 3289,42889,Kagnifêlê
 3289,42890,Kakpéssia
 3289,42891,Kpakpalaré
-3289,42892,Kpéli-fada
-3289,42893,N’Djakada
+3289,42892,Kpéli-Fada
+3289,42893,N’djakada
 3289,42894,Troucaré-Bas
 3290,42895,Kawado
 3290,42896,Landa
@@ -2931,7 +2931,7 @@ parent_id,item_id,item_name
 3292,42930,Volly-Latadji
 3293,42931,Avégodoui
 3293,42932,Avétuimey
-3293,42933,Azové centre
+3293,42933,Azové Centre
 3293,42934,Dékanmey
 3293,42935,Djimadohoué
 3293,42936,Ekinhoué
@@ -3009,7 +3009,7 @@ parent_id,item_id,item_name
 3299,43008,Tchanhoué
 3299,43009,Titongon
 3299,43010,Zohoudji
-3300,43011,Djakotomey centre
+3300,43011,Djakotomey Centre
 3300,43012,Danssouhoué
 3300,43013,Agbédranfo
 3300,43014,Améganhoué
@@ -3050,7 +3050,7 @@ parent_id,item_id,item_name
 3304,43049,Kinkinhoué
 3304,43050,Segbèhoué
 3304,43051,Seglahoué
-3305,43052,Fogbadja centre
+3305,43052,Fogbadja Centre
 3305,43053,Gbemahlouehoué
 3305,43054,Gboyouhoué
 3305,43055,Kansouhoué
@@ -3078,8 +3078,8 @@ parent_id,item_id,item_name
 3308,43077,Avédjin
 3308,43078,Ayomi Centre
 3308,43079,Gbannavé
-3308,43080,Ketchandji-kpolédji
-3308,43081,Kpodaha centre
+3308,43080,Ketchandji-Kpolédji
+3308,43081,Kpodaha Centre
 3308,43082,Kpodaha Deka
 3308,43083,Tokpota
 3308,43084,Zohoudji
@@ -3182,7 +3182,7 @@ parent_id,item_id,item_name
 3318,43181,Yèvihoué
 3318,43182,Zohoudji
 3319,43183,Gbébléhoué
-3319,43184,Hondjin centre
+3319,43184,Hondjin Centre
 3319,43185,Hondjingan
 3319,43186,Kogbétohoué
 3319,43187,Komè
@@ -3370,7 +3370,7 @@ parent_id,item_id,item_name
 3342,43369,Vodjè Centre
 3342,43370,Vodjè Finagnon
 3343,43371,Ahouanlèko
-3343,43372,Aibatin dodo
+3343,43372,Aibatin Dodo
 3343,43373,Akogbato
 3343,43374,Cadjèhoun Agonga
 3343,43375,Cadjèhoun Aupiais
@@ -3386,17 +3386,17 @@ parent_id,item_id,item_name
 3343,43385,Haie Vive
 3343,43386,Hlazounto
 3343,43387,Les Cocotiers
-3343,43388,Vodjè kpota
+3343,43388,Vodjè Kpota
 3343,43389,Yémicodji
 3344,43390,Adjaha- Cité
 3344,43391,Agla-Agongbomey
 3344,43392,Agla-Akplomey
 3344,43393,Agla-Figaro
 3344,43394,Agla-Finafa
-3344,43395,Agla-les Pylônes
+3344,43395,Agla-Les Pylônes
 3344,43396,Agla-Petit Château
 3344,43397,Agla-Sud
-3344,43398,Ahogbohouè-Cité de l’expérience
+3344,43398,Ahogbohouè-Cité De L’expérience
 3344,43399,Ahogbohouè-Cité Eucaristie
 3344,43400,Aibatin Kpota
 3344,43401,Gbèdégbé
@@ -3686,11 +3686,11 @@ parent_id,item_id,item_name
 3368,43685,Gadomé
 3368,43686,Gativé
 3368,43687,Hongodé
-3368,43688,Honvê-comè
-3368,43689,Hôtel de ville
+3368,43688,Honvê-Comè
+3368,43689,Hôtel De Ville
 3368,43690,Kandé
 3368,43691,Kpongonou
-3368,43692,Maison des jeunes
+3368,43692,Maison Des Jeunes
 3368,43693,Mon Berger
 3368,43694,Nongo
 3368,43695,Sossigbé
@@ -3937,7 +3937,7 @@ parent_id,item_id,item_name
 3391,43936,Tokomè
 3391,43937,Vidjinan
 3392,43938,Adjati-Djogbèhouè
-3392,43939,Adjati-vèdo
+3392,43939,Adjati-Vèdo
 3392,43940,Dossouvié
 3392,43941,Gassako
 3392,43942,Honvié Centre
@@ -4085,8 +4085,8 @@ parent_id,item_id,item_name
 3408,44084,Vanté
 3408,44085,Wayi-Sogbé
 3409,44086,Danto
-3409,44087,Danto les palmiers
-3409,44088,Gouako-kotoclomè
+3409,44087,Danto Les Palmiers
+3409,44088,Gouako-Kotoclomè
 3409,44089,Sohomey
 3409,44090,Vakon-Adanhou
 3409,44091,Vakon-Agatha
@@ -4276,7 +4276,7 @@ parent_id,item_id,item_name
 3430,44275,Vêkp
 3431,44276,Agbokou Aga
 3431,44277,Agbokou Bassodji Mairie
-3431,44278,Agbokou Centre social
+3431,44278,Agbokou Centre Social
 3431,44279,Agbokou Odo
 3431,44280,Attakè Olory-Togbé
 3431,44281,Attakè Yidi
@@ -4314,13 +4314,13 @@ parent_id,item_id,item_name
 3432,44313,Zèbou -Massè
 3433,44314,Anavié
 3433,44315,Anavié Voirie
-3433,44316,Djègan kpèvi
+3433,44316,Djègan Kpèvi
 3433,44317,Dodji
 3433,44318,Gbèdjromèdé Fusion
 3433,44319,Gbodjè
 3433,44320,Guévié
-3433,44321,Hlogou ou Hlongou
-3433,44322,Houinmè Château d’eau
+3433,44321,Hlogou Ou Hlongou
+3433,44322,Houinmè Château D’eau
 3433,44323,Houinmè Djaguidi
 3433,44324,Houinmè Ganto
 3433,44325,Houinmè Gbèdjromèdé
@@ -4379,7 +4379,7 @@ parent_id,item_id,item_name
 3438,44378,Ekpè Kanhonnou
 3438,44379,Ekpè Gbédjamè
 3438,44380,Ekpè-Marina
-3438,44381,Ekpè-PK10
+3438,44381,Ekpè-Pk10
 3438,44382,Ekpè-Kpécomè
 3438,44383,Ekpè-Seyivè
 3438,44384,Tchonvi
@@ -4708,7 +4708,7 @@ parent_id,item_id,item_name
 3465,44707,Igbo- Assan
 3465,44708,Igbo-Abikou
 3465,44709,Igbola
-3465,44710,Illako Faadji-Ita AKpinty
+3465,44710,Illako Faadji-Ita Akpinty
 3465,44711,Iwéré
 3465,44712,Makpohou
 3466,44713,Araromi
@@ -5051,7 +5051,7 @@ parent_id,item_id,item_name
 3515,45050,Saloudji
 3515,45051,Setto
 3515,45052,Tokégon
-3515,45053,ToKounkoun
+3515,45053,Tokounkoun
 3516,45054,Ahozoun
 3516,45055,Ayogbé
 3516,45056,Danmlonkou
@@ -5178,7 +5178,7 @@ parent_id,item_id,item_name
 3530,45177,Gbatèzounmè
 3530,45178,Gbonou
 3530,45179,Massagbo
-3530,45180,N’Dokpo
+3530,45180,N’dokpo
 3530,45181,Sowé
 3530,45182,Zingon
 3531,45183,Don-Aliho
